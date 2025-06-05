@@ -1,7 +1,7 @@
 {
   "name": "Finanzas",
   "short_name": "Mariley",
-  "start_url": "./",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
