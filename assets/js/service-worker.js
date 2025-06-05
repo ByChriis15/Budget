@@ -1,12 +1,12 @@
 const CACHE_NAME = 'mariley-cache-v1';
 const urlsToCache = [
   './',
+  './index.html',
+  './manifest.json',
   './assets/css/styles.css',
   './assets/js/main.js',
   './assets/img/icon-192.png',
-  './assets/img/icon-512.png',
-  './manifest.json',
-  './index.html'
+  './assets/img/icon-512.png'
 ];
 
 self.addEventListener('install', e => {
