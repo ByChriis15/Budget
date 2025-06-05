@@ -1,7 +1,8 @@
 {
-  "name": "Mariley Finanzas",
+  "name": "Finanzas",
   "short_name": "Mariley",
-  "start_url": "/pages/budget.html",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ec4899",
